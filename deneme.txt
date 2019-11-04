@@ -1,4 +1,2 @@
 Mert DEMIR
-Emre
-Ozge
-Nida
+Software Engineering
